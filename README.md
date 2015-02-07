@@ -19,6 +19,7 @@ class demo (
 class demo::params {
   $val = 'demo time, yo'
 }
+```
 
 ### Purpose
 
