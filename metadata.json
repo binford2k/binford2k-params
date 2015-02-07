@@ -1,0 +1,11 @@
+{
+  "name": "binford2k-params",
+  "version": "0.0.1",
+  "author": "binford2k",
+  "summary": "A simple Puppet function to return a value from the module's params class, including it if required.",
+  "license": "Apache 2.0",
+  "source": "https://github.com/binford2k/binford2k-params",
+  "project_page": "https://github.com/binford2k/binford2k-params",
+  "issues_url": "https://github.com/binford2k/binford2k-params/issues"
+}
+
